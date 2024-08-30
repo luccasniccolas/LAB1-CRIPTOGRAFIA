@@ -1,0 +1,52 @@
+El objetivo de la ciberseguridad es proteger el dato.
+La criptografía es costosa, por lo que hay que cifrar lo más importante, por lo que es importante clasificar los datos, para ver cuales son
+los datos confidenciales que queremo proteger.
+
+ISO: Define la normativa a seguir y los estandares actuales
+
+¿Que cifrar?
+ - información confidencial: bases de datos, claves criptograficas, datos sensibles, planes de desarrollo de nuevos negocios, etc.
+
+Ramsomware: Tipo de malware que ataca a una maquina, dejandola inoperante.
+
+Medidas preventivas:
+ - Criptografía: mecanismo de prevención para hackeos. modificando un mensaje de uno legible a uno ilegible
+ - Parches
+ - Copias de seguridad o backups
+ - control de acceso lógico y físico
+ - Gestionar la altas, bajas y modificación de usuarios
+ - Threat intelligence
+ - Threat Hunting: ver las amenazas del ambiente o ecosistema
+ - Concientización: Enseñar a la gente sobre la amenazas y como prevenirlas
+
+Medidas reactivas: Se aplican cuando la amenzaza ya esta activa
+ - SOC: Centro de operaciones de seguridad mejora las capacidades de detección, respuesta y prevención de amenazas de una organización
+ - DRP: Es un plan o estrategía para seguir operando frente a desastres o catastrofes.
+ - IRT: Equipo de respuesta incidentes encargado de reaccionar frente a las amenzas inmediatamente, luego realizar una analisís de la amenaza
+ - Analisís forense informático
+ - Lecciones aprendidas: Retroalimentación de los errores o amenazas pasadas
+
+Un ciberataque es cualquier esfuerzo intencional para robar exponer, alterar, deshabilitar o destruir datos, aplicaciones u otros activos a 
+traves del acceso no autorizado a la red, sistema informatico o dispositivo digital.
+
+Vector de ataque: Forma o medio por el cual un agente malicioso haciendo uso de una vulnerabilidad es capaz de materializar un riesgo (ataque)
+ - Footprinting and reconociemiento
+ -des Malware
+ - Sniffing
+ - Social engineering
+ - DDoS
+ - Session Hijacking
+ - SQL injection
+ - Evading
+ - Decrypt
+ - Man in the middle
+ - Fuerza bruta
+ - Violencia
+ - Web servers
+ - Web App
+ - Wireless Network
+ - Movil App
+ - IoT
+ - OT 
+
+Internet Control Message protocol debe ser type 8
